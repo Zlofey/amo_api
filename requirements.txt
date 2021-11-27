@@ -1,0 +1,8 @@
+djangorestframework
+python-dotenv
+requests
+django
+django-phonenumber-field
+phonenumbers
+django-extensions
+bpython
